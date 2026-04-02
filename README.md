@@ -1,126 +1,83 @@
+<!-- HEADER ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=900&lines=🏛️+Unlimited+Archive+Academy;🎓+Teaching+Ages+6–16+Since+Day+One;🔐+Cybersecurity+%7C+Cryptography+%7C+AI;🚀+From+Zero+to+Full+Stack+to+Neural+Networks;💡+We+Build+Thinkers+—+Not+Just+Coders" />
+</p>
+
+<!-- BADGES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=UnlimitedArchived&color=00d4ff&style=for-the-badge&label=ACADEMY+VISITORS"/>
+  <img src="https://img.shields.io/github/followers/UnlimitedArchived?style=for-the-badge&color=00d4ff&logo=github&label=FOLLOWERS"/>
+  <img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20SECURITY%20%7C%20DEV-00d4ff?style=for-the-badge"/>
+</p>
+
+---
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a2e,60:0d1b4b,100:001a3a&height=220&section=header&text=Unlimited%20Archive&fontSize=58&fontColor=00d4ff&fontAlignY=38&desc=⚡%20Code%20·%20Security%20·%20AI%20·%20The%20Future%20Starts%20Here&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
-
-<br/> font=JetBrains+Mono&weight=800&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=🏛️+Unlimited+Archive+Academy;🎓+Teaching+Ages+6–16+Since+Day+One;🔐+Cybersecurity+%7C+Cryptography+%7C+AI;🚀+From+Scratch+to+Full+Stack+to+Neural+Nets;💡+We+Don't+Just+Teach+Code+—+We+Build+Futures" />
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=UnlimitedArchived&color=00d4ff&style=for-the-badge&label=ACADEMY+VISITORS)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/UnlimitedArchived?style=for-the-badge&color=00d4ff&logo=github&label=FOLLOWERS)](https://github.com/UnlimitedArchived)
+╔══════════════════════════════════════════════════════════════════╗ ║                 🏛️ UNLIMITED ARCHIVE ACADEMY 🏛️                ║ ║                                                                  ║ ║   Programming • AI • Cybersecurity • Cryptography                ║ ║   Building The Next Generation of Tech Leaders (6 → 16)          ║ ╚══════════════════════════════════════════════════════════════════╝
 
 </div>
 
 ---
 
-<div align="center">
+# 🧬 About The Academy
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║           🏛️  UNLIMITED ARCHIVE ACADEMY  🏛️                     ║
-║                                                                  ║
-║   Teaching Programming · Software · AI · Cybersecurity          ║
-║   To the Next Generation of Tech Leaders  (Ages 6 → 16)         ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+**Unlimited Archive Academy** is a next-generation technology education platform designed to transform young minds into real-world innovators.
 
-</div>
+> 🔥 *We don’t just teach code — we engineer minds, secure systems, and build the future.*
 
----
-
-## 🧬 About the Academy
-
-**Unlimited Archive** هي أكاديمية تقنية متخصصة في تعليم البرمجة، تطوير البرمجيات، الذكاء الاصطناعي، **الأمن السيبراني**، وعلوم التشفير للأطفال والمراهقين من سن **6 إلى 16 سنة**.
-
-> 🔐 *"نمنح الأجيال القادمة ليس فقط كيف يكتبون الكود — بل كيف يفكرون كـ Engineers، يحمون كـ Security Experts، ويبتكرون كـ AI Researchers."*
-
-- 📍 **Egypt**
-- 📞 **+201286016083**
-- 📧 [advinistrator@gmail.com](mailto:advinistrator@gmail.com)
-- 🌐 [Makavael.com](https://Makavael.com)
+### 🎯 Core Fields:
+- 💻 Software Engineering  
+- 🤖 Artificial Intelligence  
+- 🔐 Cybersecurity  
+- 🔑 Cryptography  
 
 ---
 
-## 🗺️ Learning Roadmap by Age
+# 🧭 Learning Roadmap
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    UNLIMITED ARCHIVE PATH                        │
-├────────────┬────────────────────────────────────────────────────┤
-│  🌱 6–9    │  Scratch · Logic Thinking · Creative Coding        │
-│            │  Math Games · Algorithm Basics (Visual)            │
-├────────────┼────────────────────────────────────────────────────┤
-│  🔧 10–12  │  Python · HTML/CSS · Git · Small Projects          │
-│            │  Intro to Networking · Data Types · OOP Concepts   │
-├────────────┼────────────────────────────────────────────────────┤
-│  ⚡ 13–14  │  JavaScript · React · Databases · REST APIs        │
-│            │  Linux · Bash · Network Fundamentals · CTF Intro   │
-├────────────┼────────────────────────────────────────────────────┤
-│  🤖 15–16  │  AI/ML · Deep Learning · Full Stack · Docker       │
-│            │  🔐 Cybersecurity · Cryptography · Ethical Hacking │
-└────────────┴────────────────────────────────────────────────────┘
-```
+<p align="center">
+
+| Level | Stage | What You Learn |
+|------|------|---------------|
+| 🟢 | Foundations | Logic • Scratch • Thinking Skills |
+| 🔵 | Core Programming | Python • Algorithms • Problem Solving |
+| 🟣 | Development | HTML • CSS • JavaScript • Projects |
+| 🔴 | Cybersecurity | Ethical Hacking • Security Basics |
+| ⚫ | Advanced AI | Machine Learning • Neural Networks |
+
+</p>
 
 ---
 
-## 🔐 Cybersecurity & Cryptography Track
+# 🚀 Programs Structure
 
-<div align="center">
+```text
+Beginner → Intermediate → Advanced → Specialist
+👶 Kids Track (6–10)
+🧑‍💻 Teens Track (11–16)
+🧠 Advanced Track (Future Engineers)
+📊 Academy Insights
+�
+￼ 
 
-![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-Penetration%20Testing-red?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Cryptography](https://img.shields.io/badge/Cryptography-AES%20%7C%20RSA%20%7C%20ECC-blue?style=for-the-badge&logo=letsencrypt&logoColor=white)
-![CTF](https://img.shields.io/badge/CTF-Capture%20The%20Flag-orange?style=for-the-badge&logo=hackthebox&logoColor=white)
-![SOC](https://img.shields.io/badge/SOC-Security%20Operations-green?style=for-the-badge&logo=splunk&logoColor=white)
-![Forensics](https://img.shields.io/badge/Digital-Forensics-purple?style=for-the-badge&logo=elastic&logoColor=white)
-![OSINT](https://img.shields.io/badge/OSINT-Intelligence-yellow?style=for-the-badge&logo=searchengin&logoColor=black)
+💡 Why Unlimited Archive?
+🚀 Structured roadmap from zero → advanced
+🧠 Focus on mindset before code
+🛡️ Security-first education
+💼 Real-world project building
+🌍 Future-ready skills
+📞 Contact
+�
 
-</div>
+📍 Egypt
+📞 +20 128 601 6083
+📧 advinistrator@gmail.com
+🌐 https://Makavael.com⁠�
+�
 
-| المجال | ما نعلمه |
-|--------|----------|
-| 🔑 **Cryptography** | AES, RSA, ECC, Hashing (SHA/MD5), Digital Signatures, PKI |
-| 🛡️ **Network Security** | Firewalls, VPN, IDS/IPS, Wireshark, Packet Analysis |
-| 💀 **Ethical Hacking** | Recon, Scanning, Exploitation, Post-Exploitation (Metasploit) |
-| 🔬 **Digital Forensics** | Disk Analysis, Memory Forensics, Log Analysis |
-| 🧠 **OSINT** | Intelligence Gathering, Maltego, Shodan |
-| 🚨 **SOC & Blue Team** | SIEM, Incident Response, Threat Hunting |
-| 🏴 **CTF Competitions** | HackTheBox, TryHackMe, PicoCTF Training |
-
----
-
-## 🤖 AI & Machine Learning Track
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-</div>
-
----
-
-## 💻 Full Stack Development Stack
-
-<div align="center">
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+⚡ Vision
+To build a generation capable of creating, securing, and leading global technology.
+�
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Backend**
