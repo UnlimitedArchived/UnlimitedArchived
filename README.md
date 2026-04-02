@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=🏛️+Unlimited+Archive+Academy;🎓+Teaching+Ages+6–16+Since+Day+One;🔐+Cybersecurity+%7C+Cryptography+%7C+AI;🚀+From+Scratch+to+Full+Stack+to+Neural+Nets;💡+We+Don't+Just+Teach+Code+—+We+Build+Futures" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=🏛️+Unlimited+Archive+Academy;🎓+Teaching+Ages+6–16+Since+Day+One;🔐+Cybersecurity+%7C+Cryptography+%7C+AI;🚀+From+Scratch+to+Full+Stack+to+Neural+Nets;💡+We+Don't+Just+Teach+Code+—+We+Build+Futures" />
 
 <br/><br/>
 
