@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a2e,60:0d1b4b,100:001a3a&height=220&section=header&text=Unlimited%20Archive&fontSize=58&fontColor=00d4ff&fontAlignY=38&desc=⚡%20Code%20·%20Security%20·%20AI%20·%20The%20Future%20Starts%20Here&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=🏛️+Unlimited+Archive+Academy;🎓+Teaching+Ages+6–16+Since+Day+One;🔐+Cybersecurity+%7C+Cryptography+%7C+AI;🚀+From+Scratch+to+Full+Stack+to+Neural+Nets;💡+We+Don't+Just+Teach+Code+—+We+Build+Futures" />
+<br/> font=JetBrains+Mono&weight=800&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=🏛️+Unlimited+Archive+Academy;🎓+Teaching+Ages+6–16+Since+Day+One;🔐+Cybersecurity+%7C+Cryptography+%7C+AI;🚀+From+Scratch+to+Full+Stack+to+Neural+Nets;💡+We+Don't+Just+Teach+Code+—+We+Build+Futures" />
 
 <br/><br/>
 
